@@ -63,4 +63,4 @@ Rights remain with the artist of all songs used in this project - There is no co
 
 Permission is hereby granted, free of charge, to any person obtaining a copy to use this software in an educational context without any restrictions, however you are not permitted to claim this software as your own or use it for commercial purposes.
 
-Additional licensing information can be found [https://cdn.theflyingrat.com/LICENSE](here.)
+Additional licensing information can be found [here.](https://cdn.theflyingrat.com/LICENSE)
