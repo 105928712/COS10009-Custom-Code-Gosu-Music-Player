@@ -58,6 +58,9 @@ The program is entirely dependent on `albums.txt` for its functionality, so ensu
 ## License
 
 Copyright (c) 2025 Joey Manani
+
 Rights remain with the artist of all songs used in this project - There is no commercial use of this software. Copyright infringement is not intended, and all songs are used for educational purposes only.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy to use this software in an educational context without any restrictions, however you are not permitted to claim this software as your own or use it for commercial purposes.
+
 Additional licensing information can be found [https://cdn.theflyingrat.com/LICENSE](here.)
